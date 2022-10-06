@@ -1,6 +1,4 @@
 // Your code here
-const myElem = document.createElement("P")
-myElem.style.background = "yellow";
-myElem.innerHTML = "Hello World";
-document.body.appendChild(myElem);
-
+let elem = document.createElement("P")
+elem.style.background = "yellow";
+elem.innerHTML = "Hello World";
