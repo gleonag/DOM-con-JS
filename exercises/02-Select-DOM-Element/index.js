@@ -1,4 +1,4 @@
 //your code here
-let aux = document.getElementById("theTitle");
+let aux = document.querySelector("#theTitle");
 window.alert(aux.id);
 
